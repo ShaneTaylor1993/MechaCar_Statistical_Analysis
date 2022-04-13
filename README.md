@@ -12,6 +12,7 @@
 - The equation from our linear model (mpg = 6.26713(vl) + 0.00125(vw) + 0.06877(sa) + 3.5455(gc) - 3.4115(AWD) - 103.9639) shows that all of the coefficients from the predictor variables are non-zero which in turn shows that the slope of the linear model is non-zero.
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-- 
+- Vehicle length and ground clearance have very small p-values which helps show the relationship between mpg and these predictor variables. AWD, spoiler angle, and vehicle weight all have large p-values which shows that there isn't a statistically significant relationship between these predictor variables and mpg.
+- AWD is recorded in binary format so we would consider not acknowledging the relationship between AWD and mpg in this linear model.
 
 ![Model Summary](./Images/Model_Summary.png)
