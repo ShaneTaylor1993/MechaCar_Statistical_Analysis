@@ -30,11 +30,18 @@ Individual Lot Summary Variance
 ![Individual Lot Summary Variance](./Images/Lot_Summary.png)
 
 ### T-Tests on Suspension Coils
+1. Determine if the PSI for all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+
 - Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
-T-Test Summary [Sample Mean vs Population Mean]
-![T-Test Summary - Sample Mean vs Population Mean](./Images/Sample_Test.png)
+Sample Mean vs Population Mean - T-Test Summary
 
+![Sample Mean vs Population Mean - T-Test Summary](./Images/Sample_Test.png)
 
+2. Determine if the PSI for Lot 1 is statistically different from the population mean of 1,500 pounds per square inch.
 
-![T-Test Summary - Lot 1 Mean vs Population Mean](./Images/Lot1_Test.png)
+- Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+Lot 1 Mean vs Population Mean - T-Test Summary
+
+![Lot 1 Mean vs Population Mean - T-Test Summary](./Images/Lot1_Test.png)
