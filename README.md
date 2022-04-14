@@ -16,3 +16,12 @@
 - AWD is recorded in binary format so we would consider not acknowledging the relationship between AWD and mpg in this linear model.
 
 ![Model Summary](./Images/Model_Summary.png)
+
+### Summary Statistics on Suspension Coils
+1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+- The total lot summary variance shows a variance of 62.29356 which is within design specifications. The individual lot summary variance shows that Lot 1 and Lot 2 are well below the design specification with a variance of 0.9795918 and 7.4693878, respectively, but Lot 3 has a variance of 170.2861224 which is well above the design specification.
+
+Total Lot Summary Variance
+![Total Lot Summary Variance](./Images/Summary_Statistics.png)
+Individual Lot Summary Variance
+![Individual Lot Summary Variance](./Images/Lot_Summary.png)
