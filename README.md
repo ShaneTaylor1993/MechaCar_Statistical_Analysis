@@ -53,3 +53,11 @@ Lot 1 Mean vs Population Mean - T-Test Summary
 Lot 2 Mean vs Population Mean - T-Test Summary
 
 ![Lot 2 Mean vs Population Mean - T-Test Summary](./Images/Lot2_Test.png)
+
+4. Determine if the PSI for Lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
+
+- Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+Lot 3 Mean vs Population Mean - T-Test Summary
+
+![Lot 3 Mean vs Population Mean - T-Test Summary](./Images/Lot3_Test.png)
