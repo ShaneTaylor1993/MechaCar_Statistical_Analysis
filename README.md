@@ -61,3 +61,6 @@ Lot 2 Mean vs Population Mean - T-Test Summary
 Lot 3 Mean vs Population Mean - T-Test Summary
 
 ![Lot 3 Mean vs Population Mean - T-Test Summary](./Images/Lot3_Test.png)
+
+## Study Design: MechaCar vs Competition
+If we were looking to compare MechaCar against a competitor, we would look at metrics such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. To form a hypothesis, we would decide on which metric we'd like to compare to the competition such as fuel efficiency. Our null hypothesis would be there is no difference between average fuel efficiency between MechaCar and the competition's vehicles. The Alternative hypothesis would be that there is a difference between average fuel efficiency between MechaCar and the competition's vehicles. A statistical test we could perform would be a two-sample t-test due to having two samples of continuous data. The data we would use would be a data set of fuel efficiency for MechaCar and the competition.
